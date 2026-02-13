@@ -51,6 +51,7 @@ const CONFIG = {
     celebration: {
         title: "I'm the luckiest person in the world! 🎉💝💖💝💓",
         message: "I love you so much ahobi, and I m so happy to have you, laykhaliklya",
+        note: "(w rba7ti m3ana cadeau)",
         emojis: "🥰🥰🥰💖💕"  // These will bounce around
     },
 
