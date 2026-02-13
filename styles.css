@@ -288,6 +288,15 @@ h2 {
     text-shadow: 2px 2px 4px rgba(255, 71, 87, 0.3);
 }
 
+.celebration-note {
+    font-size: 1.2em;  /* Encore plus petit */
+    color: #ff8fa3;
+    font-style: italic;
+    margin: 15px 0;
+    opacity: 0.9;
+    animation: fadeIn 2s ease-in;
+}
+
 @keyframes subtle-hint {
     0% { opacity: 0.2; }
     100% { opacity: 0.3; }
